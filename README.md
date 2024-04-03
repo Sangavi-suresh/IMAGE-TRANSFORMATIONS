@@ -160,45 +160,25 @@ plt.show()
 ## Output:
 ### i)Image Translation
 
-![312374463-28156dcf-358e-4bc1-8262-8d026159bcc0](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/f0c0177d-48a0-4c35-8986-81d0b2c0ae18)
 
-![312374545-254f434d-3808-4628-8040-7831b9d50803](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/084e98f6-7ac9-496a-81be-8e08721006c8)
 
 ### ii) Image Scaling
 
-![312374657-da2728bc-22a4-47a1-b683-d75e0291376c](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/0ef5eb0a-68a8-49c3-bd9b-4043e0c35bab)
-
-![312374933-e7f7463a-3e2d-48ad-8406-b4a831ebdd9a](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/6c6b053e-6f16-4c18-b8ad-94d6dd12e7e1)
 
 ### iii)Image shearing
 
-![312375178-5eaf2b39-a0cf-4c85-89ee-7a2928a0fca3](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/eb928870-e125-4477-96b3-63ee63f0d3be)
-
-![312375329-96356b1a-686f-4e7a-8996-45e36e3ae1d9](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/9e97f900-30d7-4408-aa57-06907d7c9adb)
-
-![312375357-7fa18db4-06e2-4471-95aa-7ab174d3b87b](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/a178902a-9362-4a45-b4cd-4d9a3e4ff336)
 
 ### iv)Image Reflection
 
-![312375415-3c4971f8-b8a4-406a-ba60-323f93415606](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/62ffae1f-2243-47da-a6ca-701f2cd5f482)
-
-![312375626-93b26f93-cfac-4aa8-9d27-48535c97ec39](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/46bbd06a-ccc8-4075-a636-f5feafcc329f)
-
-![312375836-7b3519cd-4921-4575-8827-6b2ac904188a](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/79585e81-dc47-41ef-8fac-3d11b49cb666)
 
 ### v)Image Rotation
 
-![312376505-28d4f6bb-3754-42e7-b083-41dedf08c2dc](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/7fa2fc46-73e5-4a18-ad89-c0650f17df6f)
-
-![312376688-a92d58a5-491a-401d-9a76-e265765116b4](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/761f1fce-62e3-48b0-9dd9-135a3a44ee83)
+![3
 
 
 ### vi)Image Cropping
 
-![312376892-b383a754-4e25-44fc-b6f2-f7f3be01cfae](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/39528ccd-4b6a-40f2-b3b3-34cf412ca6bb)
 
-
-![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/071401a0-706f-467b-99f6-47373ae8bb81)
 
 
 
