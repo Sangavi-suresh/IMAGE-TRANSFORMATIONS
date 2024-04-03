@@ -197,8 +197,8 @@ plt.show()
 
 ![312376892-b383a754-4e25-44fc-b6f2-f7f3be01cfae](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/39528ccd-4b6a-40f2-b3b3-34cf412ca6bb)
 
-![312376986-ccb76dd9-491b-42d1-88fe-470361a89020](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/938d02a5-ccba-48cc-a5e2-6ea6e0fc34ae)
 
+![Uploading image.png…]()
 
 
 ## Result: 
