@@ -160,9 +160,9 @@ plt.show()
 ## Output:
 ### i)Image Translation
 
-![313936454-7a0412df-023e-4d51-b033-fdc4806a547d](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/0978510a-de34-4090-8ab8-a2770a7e569f)
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/3d283cbe-b66c-4a8d-97b5-5e470bcd958b)
 
-![313936463-1745d910-5fd8-4247-a84c-0c64ede6ecab](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/fc5af003-460f-41b3-b7f6-32193d7a79d2)
+
 
 ### ii) Image Scaling
 
