@@ -190,8 +190,11 @@ plt.show()
 
 ### v)Image Rotation
 
-![3
+```
 
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/29e42a87-7c06-483e-8768-5f2f8647d68b)
+
+```
 
 ### vi)Image Cropping
 
