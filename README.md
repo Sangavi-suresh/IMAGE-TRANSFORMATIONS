@@ -167,6 +167,10 @@ plt.show()
 
 ### ii) Image Scaling
 
+```
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/48c198f3-ef24-488e-940a-3af8354d3857)
+
+```
 
 ### iii)Image shearing
 
