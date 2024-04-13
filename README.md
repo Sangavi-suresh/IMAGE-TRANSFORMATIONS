@@ -198,8 +198,11 @@ plt.show()
 
 ### vi)Image Cropping
 
+```
 
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/97380431-8856-4509-8317-57eb685066af)
 
+```
 
 
 ## Result: 
