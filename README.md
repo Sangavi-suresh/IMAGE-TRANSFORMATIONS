@@ -159,9 +159,10 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
+```
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/01f813ac-b941-4b69-9f58-84a32b974459)
 
-![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/3d283cbe-b66c-4a8d-97b5-5e470bcd958b)
-
+```
 
 
 ### ii) Image Scaling
