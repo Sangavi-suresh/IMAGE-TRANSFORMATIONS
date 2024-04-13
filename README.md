@@ -182,6 +182,8 @@ plt.show()
 
 ### iv)Image Reflection
 
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/d43cf24f-3a95-4b38-acfb-41c8f1b27028)
+
 
 ### v)Image Rotation
 
