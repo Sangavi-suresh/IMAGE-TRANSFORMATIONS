@@ -174,6 +174,11 @@ plt.show()
 
 ### iii)Image shearing
 
+```
+
+![image](https://github.com/Sangavi-suresh/IMAGE-TRANSFORMATIONS/assets/118541861/0e0d85c4-7394-41c8-b925-f6d4bacee056)
+
+```
 
 ### iv)Image Reflection
 
